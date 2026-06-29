@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/muhammad-umar-saif-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:umar.saif963@gmail.com">
+  <a href="mailto:umarsaif.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/umarsaif963">
